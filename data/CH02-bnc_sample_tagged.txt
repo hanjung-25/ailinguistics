@@ -1,0 +1,1357 @@
+<s id="1">
+The	DET	the	1	2	results	det
+results	NOUN	result	2	4	comparable	nsubj
+are	AUX	be	3	4	comparable	cop
+comparable	ADJ	comparable	4	0	root	root
+with	ADP	with	5	6	those	case
+those	PRON	that	6	4	comparable	obl
+obtained	VERB	obtain	7	6	those	acl
+using	VERB	use	8	7	obtained	advcl
+peroxidase	NOUN	peroxidase	9	10	technique	compound
+technique	NOUN	technique	10	8	using	obj
+.	PUNCT	.	11	4	comparable	punct
+</s>
+<s id="2">
+Note	VERB	note	1	0	root	root
+that	SCONJ	that	2	7	introduced	mark
+an	DET	a	3	5	variable	det
+extra	ADJ	extra	4	5	variable	amod
+variable	NOUN	variable	5	7	introduced	nsubj:pass
+is	AUX	be	6	7	introduced	aux:pass
+introduced	VERB	introduce	7	1	Note	ccomp
+as	ADP	as	8	10	flag	case
+a	DET	a	9	10	flag	det
+flag	NOUN	flag	10	7	introduced	obl
+.	PUNCT	.	11	1	Note	punct
+</s>
+<s id="3">
+Equity	NOUN	equity	1	3	supplemented	nsubj
+both	DET	both	2	1	Equity	det
+supplemented	VERB	supplement	3	0	root	root
+the	DET	the	4	6	law	det
+common	ADJ	common	5	6	law	amod
+law	NOUN	law	6	3	supplemented	obj
+and	CCONJ	and	7	8	corrected	cc
+corrected	VERB	correct	8	3	supplemented	conj
+its	PRON	its	9	10	deficiencies	nmod:poss
+deficiencies	NOUN	deficiency	10	8	corrected	obj
+.	PUNCT	.	11	3	supplemented	punct
+</s>
+<s id="4">
+To	PART	to	1	2	achieve	mark
+achieve	VERB	achieve	2	13	created	advcl
+this	PRON	this	3	2	achieve	obj
+,	PUNCT	,	4	2	achieve	punct
+eight	NUM	eight	5	11	Forces	nummod
+(	PUNCT	(	6	8	sixteen	punct
+later	ADJ	late	7	8	sixteen	amod
+sixteen	NUM	sixteen	8	5	eight	conj
+)	PUNCT	)	9	8	sixteen	punct
+Task	NOUN	Task	10	11	Forces	compound
+Forces	NOUN	force	11	13	created	nsubj:pass
+were	AUX	be	12	13	created	aux:pass
+created	VERB	create	13	0	root	root
+.	PUNCT	.	14	13	created	punct
+</s>
+<s id="5">
+This	PRON	this	1	2	brings	nsubj
+brings	VERB	bring	2	0	root	root
+us	PRON	we	3	2	brings	obj
+to	ADP	to	4	7	problems	case
+the	DET	the	5	7	problems	det
+major	ADJ	major	6	7	problems	amod
+problems	NOUN	problem	7	2	brings	obl
+of	ADP	of	8	10	observation	case
+class	NOUN	class	9	10	observation	compound
+observation	NOUN	observation	10	7	problems	nmod
+.	PUNCT	.	11	2	brings	punct
+</s>
+<s id="6">
+We	PRON	we	1	3	expose	nsubj
+can	AUX	can	2	3	expose	aux
+expose	VERB	expose	3	0	root	root
+the	DET	the	4	5	ambiguity	det
+ambiguity	NOUN	ambiguity	5	3	expose	obj
+by	SCONJ	by	6	7	introducing	mark
+introducing	VERB	introduce	7	3	expose	advcl
+some	DET	some	8	10	distinctions	det
+technical	ADJ	technical	9	10	distinctions	amod
+distinctions	NOUN	distinction	10	7	introducing	obj
+.	PUNCT	.	11	3	expose	punct
+</s>
+<s id="7">
+The	DET	the	1	3	population	det
+institutional	ADJ	institutional	2	3	population	amod
+population	NOUN	population	3	4	varies	nsubj
+varies	VERB	vary	4	0	root	root
+considerably	ADV	considerably	5	4	varies	advmod
+between	ADP	between	6	10	settings	case
+these	DET	this	7	10	settings	det
+different	ADJ	different	8	10	settings	amod
+care	NOUN	care	9	10	settings	compound
+settings	NOUN	setting	10	4	varies	obl
+.	PUNCT	.	11	4	varies	punct
+</s>
+<s id="8">
+(	PUNCT	(	1	2	See	punct
+See	VERB	see	2	0	root	root
+,	PUNCT	,	3	2	See	punct
+for	ADP	for	4	5	example	case
+example	NOUN	example	5	9	reported	obl
+,	PUNCT	,	6	5	example	punct
+the	DET	the	7	8	table	det
+table	NOUN	table	8	9	reported	nsubj
+reported	VERB	report	9	2	See	ccomp
+in	ADP	in	10	11	Torrance	case
+Torrance	PROPN	Torrance	11	9	reported	obl
+and	CCONJ	and	12	13	Zipursky	cc
+Zipursky	PROPN	Zipursky	13	11	Torrance	conj
+.	PUNCT	.	14	2	See	punct
+)	PUNCT	)	15	2	See	punct
+</s>
+<s id="9">
+Extended	VERB	extend	1	3	up	amod
+follow	NOUN	follow	2	3	up	compound
+up	ADP	up	3	5	needed	advmod
+is	AUX	be	4	5	needed	aux:pass
+needed	VERB	need	5	0	root	root
+to	PART	to	6	7	evaluate	mark
+evaluate	VERB	evaluate	7	5	needed	advcl
+the	DET	the	8	10	results	det
+longterm	ADJ	longterm	9	10	results	amod
+results	NOUN	result	10	7	evaluate	obj
+.	PUNCT	.	11	5	needed	punct
+</s>
+<s id="10">
+be	AUX	be	1	2	adjustable	cop
+adjustable	ADJ	adjustable	2	0	root	root
+to	ADP	to	3	6	needs	case
+the	DET	the	4	6	needs	det
+particular	ADJ	particular	5	6	needs	amod
+needs	NOUN	need	6	2	adjustable	obl
+of	ADP	of	7	10	branches	case
+individual	ADJ	individual	8	10	branches	amod
+technical	ADJ	technical	9	10	branches	amod
+branches	NOUN	branch	10	6	needs	nmod
+</s>
+<s id="11">
+Relatives	NOUN	relative	1	10	excluded	nsubj:pass
+of	ADP	of	2	3	patients	case
+patients	NOUN	patient	3	1	Relatives	nmod
+with	ADP	with	4	7	disease	case
+inflammatory	ADJ	inflammatory	5	7	disease	amod
+bowel	NOUN	bowel	6	7	disease	compound
+disease	NOUN	disease	7	3	patients	nmod
+were	AUX	be	8	10	excluded	aux:pass
+also	ADV	also	9	10	excluded	advmod
+excluded	VERB	exclude	10	0	root	root
+.	PUNCT	.	11	10	excluded	punct
+</s>
+<s id="12">
+The	DET	the	1	2	distinction	det
+distinction	NOUN	distinction	2	10	rigid	nsubj
+between	ADP	between	3	4	income	case
+income	NOUN	income	4	2	distinction	nmod
+and	CCONJ	and	5	6	wealth	cc
+wealth	NOUN	wealth	6	4	income	conj
+is	AUX	be	7	10	rigid	cop
+not	PART	not	8	10	rigid	advmod
+entirely	ADV	entirely	9	10	rigid	advmod
+rigid	ADJ	rigid	10	0	root	root
+.	PUNCT	.	11	10	rigid	punct
+</s>
+<s id="13">
+The	DET	the	1	2	amount	det
+amount	NOUN	amount	2	0	root	root
+of	ADP	of	3	4	RAM	case
+RAM	NOUN	ram	4	2	amount	nmod
+which	PRON	which	5	10	vital	obl
+a	DET	a	6	7	microcomputer	det
+microcomputer	NOUN	microcomputer	7	10	vital	nsubj
+has	AUX	have	8	10	vital	aux
+is	AUX	be	9	10	vital	cop
+vital	ADJ	vital	10	4	RAM	acl:relcl
+.	PUNCT	.	11	2	amount	punct
+</s>
+<s id="14">
+Use	NOUN	use	1	8	eliminated	nsubj
+of	ADP	of	2	4	portagram	case
+the	DET	the	3	4	portagram	det
+portagram	NOUN	portagram	4	1	Use	nmod
+alone	ADV	alone	5	4	portagram	advmod
+for	ADP	for	6	7	guidance	case
+guidance	NOUN	guidance	7	4	portagram	nmod
+eliminated	VERB	eliminate	8	0	root	root
+these	DET	this	9	10	complications	det
+complications	NOUN	complication	10	8	eliminated	obj
+.	PUNCT	.	11	8	eliminated	punct
+</s>
+<s id="15">
+Such	DET	such	1	3	procedure	det:predet
+a	DET	a	2	3	procedure	det
+procedure	NOUN	procedure	3	8	defeats	nsubj
+,	PUNCT	,	4	3	procedure	punct
+of	ADP	of	5	8	defeats	advmod
+course	NOUN	course	6	5	of	fixed
+,	PUNCT	,	7	5	of	punct
+defeats	VERB	defeat	8	0	root	root
+the	DET	the	9	10	object	det
+object	NOUN	object	10	8	defeats	obj
+of	ADP	of	11	12	classification	case
+classification	NOUN	classification	12	10	object	nmod
+.	PUNCT	.	13	8	defeats	punct
+</s>
+<s id="16">
+A	DET	a	1	3	concept	det
+relative	ADJ	relative	2	3	concept	amod
+concept	NOUN	concept	3	4	highlights	nsubj
+highlights	VERB	highlight	4	0	root	root
+not	PART	not	5	7	costs	advmod
+only	ADV	only	6	7	costs	advmod
+costs	NOUN	cost	7	4	highlights	obj
+to	ADP	to	8	10	health	case
+physical	ADJ	physical	9	10	health	amod
+health	NOUN	health	10	7	costs	nmod
+.	PUNCT	.	11	4	highlights	punct
+</s>
+<s id="17">
+Delta	NOUN	Delta	1	2	plans	compound
+plans	NOUN	plan	2	6	distorted	nsubj:pass
+may	AUX	may	3	6	distorted	aux
+also	ADV	also	4	6	distorted	advmod
+be	AUX	be	5	6	distorted	aux:pass
+distorted	VERB	distort	6	0	root	root
+by	ADP	by	7	10	drift	case
+strong	ADJ	strong	8	10	drift	amod
+longshore	ADJ	longshore	9	10	drift	amod
+drift	NOUN	drift	10	6	distorted	obl:agent
+.	PUNCT	.	11	6	distorted	punct
+</s>
+<s id="18">
+In	ADP	in	1	4	Ages	case
+the	DET	the	2	4	Ages	det
+Middle	ADJ	Middle	3	4	Ages	amod
+Ages	PROPN	Age	4	10	denied	obl
+such	ADJ	such	5	7	theories	amod
+realist	ADJ	realist	6	7	theories	amod
+theories	NOUN	theory	7	10	denied	nsubj:pass
+were	AUX	be	8	10	denied	aux:pass
+often	ADV	often	9	10	denied	advmod
+denied	VERB	deny	10	0	root	root
+.	PUNCT	.	11	10	denied	punct
+</s>
+<s id="19">
+It	PRON	it	1	2	possesses	nsubj
+possesses	VERB	possess	2	0	root	root
+a	DET	a	3	6	scale	det
+complete	ADJ	complete	4	6	scale	amod
+chromatic	ADJ	chromatic	5	6	scale	amod
+scale	NOUN	scale	6	2	possesses	obj
+between	ADP	between	7	10	notes	case
+these	DET	this	8	10	notes	det
+two	NUM	two	9	10	notes	nummod
+notes	NOUN	note	10	6	scale	nmod
+.	PUNCT	.	11	2	possesses	punct
+</s>
+<s id="20">
+They	PRON	they	1	2	have	nsubj
+have	VERB	have	2	0	root	root
+to	PART	to	3	4	consider	mark
+consider	VERB	consider	4	2	have	xcomp
+the	DET	the	5	6	task	det
+task	NOUN	task	6	4	consider	obj
+in	ADP	in	7	10	right	case
+its	PRON	its	8	10	right	nmod:poss
+own	ADJ	own	9	10	right	amod
+right	NOUN	right	10	4	consider	obl
+.	PUNCT	.	11	2	have	punct
+</s>
+<s id="21">
+This	PRON	this	1	2	explains	nsubj
+explains	VERB	explain	2	0	root	root
+why	ADV	why	3	2	explains	obj
+so	ADV	so	4	5	many	advmod
+many	ADJ	many	5	6	philosophers	amod
+philosophers	NOUN	philosopher	6	8	supported	nsubj
+have	AUX	have	7	8	supported	aux
+supported	VERB	support	8	3	why	advcl:relcl
+theoretical	ADJ	theoretical	9	10	hedonism	amod
+hedonism	NOUN	hedonism	10	8	supported	obj
+.	PUNCT	.	11	2	explains	punct
+</s>
+<s id="22">
+Thirdly	ADV	thirdly	1	6	identical	advmod
+progression	NOUN	progression	2	6	identical	nsubj
+may	AUX	may	3	6	identical	aux
+not	PART	not	4	6	identical	advmod
+be	AUX	be	5	6	identical	cop
+identical	ADJ	identical	6	0	root	root
+across	ADP	across	7	10	targets	case
+the	DET	the	8	10	targets	det
+attainment	NOUN	attainment	9	10	targets	compound
+targets	NOUN	target	10	6	identical	obl
+.	PUNCT	.	11	6	identical	punct
+</s>
+<s id="23">
+We	PRON	we	1	2	had	nsubj
+had	VERB	have	2	0	root	root
+the	DET	the	3	5	rights	det
+same	ADJ	same	4	5	rights	amod
+rights	NOUN	right	5	2	had	obj
+and	CCONJ	and	6	7	opportunities	cc
+opportunities	NOUN	opportunity	7	5	rights	conj
+as	ADP	as	8	10	Americans	case
+the	DET	the	9	10	Americans	det
+Americans	PROPN	American	10	2	had	obl
+.	PUNCT	.	11	2	had	punct
+</s>
+<s id="24">
+The	DET	the	1	6	number	det
+larger	ADJ	large	2	6	number	amod
+the	DET	the	3	6	number	det
+particle	NOUN	particle	4	6	number	compound
+phi	NOUN	phi	5	6	number	compound
+number	NOUN	number	6	10	particle	nsubj
+the	DET	the	7	10	particle	det
+finer	ADJ	finer	8	10	particle	amod
+the	DET	the	9	10	particle	det
+particle	NOUN	particle	10	0	root	root
+.	PUNCT	.	11	10	particle	punct
+</s>
+<s id="25">
+The	DET	the	1	2	truth	det
+truth	NOUN	truth	2	8	has	nsubj:outer
+is	AUX	be	3	8	has	cop
+that	SCONJ	that	4	8	has	mark
+nationality	NOUN	nationality	5	8	has	nsubj
+in	ADP	in	6	7	art	case
+art	NOUN	art	7	5	nationality	nmod
+has	VERB	have	8	0	root	root
+limited	ADJ	limited	9	10	importance	amod
+importance	NOUN	importance	10	8	has	obj
+.	PUNCT	.	11	8	has	punct
+</s>
+<s id="26">
+Hardly	ADV	hardly	1	5	looked	advmod
+any	DET	any	2	3	writer	det
+writer	NOUN	writer	3	5	looked	nsubj
+has	AUX	have	4	5	looked	aux
+looked	VERB	look	5	0	root	root
+,	PUNCT	,	6	7	linguistically	punct
+linguistically	ADV	linguistically	7	5	looked	advmod
+,	PUNCT	,	8	12	items	punct
+beyond	ADP	beyond	9	12	items	case
+unstructured	ADJ	unstructured	10	12	items	amod
+lexical	ADJ	lexical	11	12	items	amod
+items	NOUN	item	12	5	looked	obl
+.	PUNCT	.	13	5	looked	punct
+</s>
+<s id="27">
+Young	ADJ	Young	1	4	whelks	amod
+dog	NOUN	dog	2	4	whelks	compound
+-	PUNCT	-	3	2	dog	punct
+whelks	NOUN	whelk	4	9	vulnerable	nsubj
+are	AUX	be	5	9	vulnerable	cop
+also	ADV	also	6	9	vulnerable	advmod
+the	DET	the	7	9	vulnerable	det
+most	ADV	most	8	9	vulnerable	advmod
+vulnerable	ADJ	vulnerable	9	0	root	root
+to	ADP	to	10	12	attack	case
+crab	NOUN	crab	11	12	attack	compound
+attack	NOUN	attack	12	9	vulnerable	obl
+.	PUNCT	.	13	9	vulnerable	punct
+</s>
+<s id="28">
+Not	PART	not	1	3	dialogue	advmod
+all	DET	all	2	3	dialogue	det
+dialogue	NOUN	dialogue	3	7	elaborate	nsubj
+is	AUX	be	4	7	elaborate	cop
+as	ADV	as	5	6	linguistically	advmod
+linguistically	ADV	linguistically	6	7	elaborate	advmod
+elaborate	ADJ	elaborate	7	0	root	root
+as	ADP	as	8	10	example	case
+this	DET	this	9	10	example	det
+example	NOUN	example	10	7	elaborate	obl
+.	PUNCT	.	11	7	elaborate	punct
+</s>
+<s id="29">
+How	ADV	how	1	5	used	advmod
+could	AUX	could	2	5	used	aux
+this	PRON	this	3	5	used	nsubj:pass
+be	AUX	be	4	5	used	aux:pass
+used	VERB	use	5	0	root	root
+for	SCONJ	for	6	7	controlling	mark
+controlling	VERB	control	7	5	used	advcl
+a	DET	a	8	10	loop	det
+repetitive	ADJ	repetitive	9	10	loop	amod
+loop	NOUN	loop	10	7	controlling	obj
+?	PUNCT	?	11	5	used	punct
+</s>
+<s id="30">
+But	CCONJ	but	1	6	confined	cc
+the	DET	the	2	3	parties	det
+parties	NOUN	party	3	6	confined	nsubj:pass
+are	AUX	be	4	6	confined	aux:pass
+not	PART	not	5	6	confined	advmod
+confined	VERB	confine	6	0	root	root
+to	ADP	to	7	10	perspective	case
+the	DET	the	8	10	perspective	det
+first	ADJ	first	9	10	perspective	amod
+perspective	NOUN	perspective	10	6	confined	obl
+.	PUNCT	.	11	6	confined	punct
+</s>
+<s id="31">
+There	PRON	there	1	2	is	expl
+is	VERB	be	2	0	root	root
+a	DET	a	3	4	need	det
+need	NOUN	need	4	2	is	nsubj
+to	PART	to	5	6	introduce	mark
+introduce	VERB	introduce	6	4	need	acl
+a	DET	a	7	10	wage	det
+statutory	ADJ	statutory	8	10	wage	amod
+minimum	ADJ	minimum	9	10	wage	amod
+wage	NOUN	wage	10	6	introduce	obj
+.	PUNCT	.	11	2	is	punct
+</s>
+<s id="32">
+Something	PRON	something	1	5	present	nsubj
+else	ADJ	else	2	1	Something	amod
+must	AUX	must	3	5	present	aux
+be	AUX	be	4	5	present	cop
+present	ADJ	present	5	0	root	root
+such	ADJ	such	6	10	effect	case
+as	ADP	as	7	6	such	fixed
+a	DET	a	8	10	effect	det
+technical	ADJ	technical	9	10	effect	amod
+effect	NOUN	effect	10	5	present	obl
+.	PUNCT	.	11	5	present	punct
+</s>
+<s id="33">
+There	PRON	there	1	2	is	expl
+is	VERB	be	2	0	root	root
+also	ADV	also	3	2	is	advmod
+an	DET	a	4	5	obligation	det
+obligation	NOUN	obligation	5	2	is	nsubj
+,	PUNCT	,	6	7	however	punct
+however	ADV	however	7	2	is	advmod
+,	PUNCT	,	8	7	however	punct
+to	PART	to	9	10	use	mark
+use	VERB	use	10	2	is	csubj
+effective	ADJ	effective	11	12	methods	amod
+methods	NOUN	method	12	10	use	obj
+.	PUNCT	.	13	2	is	punct
+</s>
+<s id="34">
+I	PRON	I	1	3	like	nsubj
+would	AUX	would	2	3	like	aux
+like	VERB	like	3	0	root	root
+students	NOUN	student	4	3	like	obj
+to	PART	to	5	6	maintain	mark
+maintain	VERB	maintain	6	3	like	xcomp
+several	ADJ	several	7	8	trails	amod
+trails	NOUN	trail	8	6	maintain	obj
+at	ADP	at	9	10	once	case
+once	ADV	once	10	6	maintain	obl
+.	PUNCT	.	11	3	like	punct
+</s>
+<s id="35">
+But	CCONJ	but	1	5	use	cc
+what	PRON	what	2	0	root	root
+'s	AUX	be	3	2	what	cop
+the	DET	the	4	5	use	det
+use	NOUN	use	5	2	what	nsubj
+of	SCONJ	of	6	7	knowing	mark
+knowing	VERB	know	7	5	use	acl
+about	ADP	about	8	10	lions	case
+Ant	PROPN	Ant	9	10	lions	compound
+lions	NOUN	lion	10	7	knowing	obl
+?	PUNCT	?	11	2	what	punct
+</s>
+<s id="36">
+The	DET	the	1	3	decisions	det
+final	ADJ	final	2	3	decisions	amod
+decisions	NOUN	decision	3	6	taken	nsubj:pass
+will	AUX	will	4	6	taken	aux
+be	AUX	be	5	6	taken	aux:pass
+taken	VERB	take	6	0	root	root
+in	ADP	in	7	8	January	case
+January	PROPN	January	8	6	taken	obl
+and	CCONJ	and	9	10	February	cc
+February	PROPN	February	10	8	January	conj
+.	PUNCT	.	11	6	taken	punct
+</s>
+<s id="37">
+Blake	PROPN	Blake	1	3	stretches	nsubj
+often	ADV	often	2	3	stretches	advmod
+stretches	VERB	stretch	3	0	root	root
+concepts	NOUN	concept	4	3	stretches	obj
+with	ADP	with	5	7	boundaries	case
+contentious	ADJ	contentious	6	7	boundaries	amod
+boundaries	NOUN	boundary	7	3	stretches	obl
+into	ADP	into	8	10	holdalls	case
+diaphanous	ADJ	diaphanous	9	10	holdalls	amod
+holdalls	NOUN	holdall	10	3	stretches	obl
+.	PUNCT	.	11	3	stretches	punct
+</s>
+<s id="38">
+Then	ADV	then	1	11	diminished	advmod
+,	PUNCT	,	2	1	Then	punct
+for	ADP	for	3	5	decade	case
+a	DET	a	4	5	decade	det
+decade	NOUN	decade	5	11	diminished	obl
+or	CCONJ	or	6	7	so	cc
+so	ADV	so	7	5	decade	conj
+,	PUNCT	,	8	5	decade	punct
+its	PRON	its	9	10	effects	nmod:poss
+effects	NOUN	effect	10	11	diminished	nsubj
+diminished	VERB	diminish	11	0	root	root
+considerably	ADV	considerably	12	11	diminished	advmod
+.	PUNCT	.	13	11	diminished	punct
+</s>
+<s id="39">
+He	PRON	he	1	3	translated	nsubj
+also	ADV	also	2	3	translated	advmod
+translated	VERB	translate	3	0	root	root
+English	ADJ	English	4	9	classics	amod
+,	PUNCT	,	5	6	French	punct
+French	ADJ	French	6	4	English	conj
+and	CCONJ	and	7	8	German	cc
+German	ADJ	German	8	4	English	conj
+classics	NOUN	classic	9	3	translated	obj
+into	ADP	into	10	11	Serbian	case
+Serbian	PROPN	serbian	11	3	translated	obl
+.	PUNCT	.	12	3	translated	punct
+</s>
+<s id="40">
+Few	ADJ	few	1	3	naturalized	nsubj:pass
+are	AUX	be	2	3	naturalized	aux:pass
+naturalized	VERB	naturalize	3	0	root	root
+and	CCONJ	and	4	8	wish	cc
+most	ADV	most	5	8	wish	advmod
+do	AUX	do	6	8	wish	aux
+not	PART	not	7	8	wish	advmod
+wish	VERB	wish	8	3	naturalized	conj
+to	PART	to	9	10	be	mark
+be	AUX	be	10	8	wish	xcomp
+.	PUNCT	.	11	3	naturalized	punct
+</s>
+<s id="41">
+Even	ADV	even	1	2	so	advmod
+so	ADV	so	2	7	remain	advmod
+,	PUNCT	,	3	2	so	punct
+over	ADV	over	4	5	500	advmod
+500	NUM	500	5	6	Members	nummod
+Members	NOUN	member	6	7	remain	nsubj
+remain	VERB	remain	7	0	root	root
+qualified	ADJ	qualified	8	7	remain	xcomp
+to	PART	to	9	10	do	mark
+do	VERB	do	10	8	qualified	xcomp
+so	ADV	so	11	10	do	advmod
+.	PUNCT	.	12	7	remain	punct
+</s>
+<s id="42">
+Women	NOUN	woman	1	2	have	nsubj
+have	VERB	have	2	0	root	root
+little	ADJ	little	3	4	presence	amod
+presence	NOUN	presence	4	2	have	obj
+in	ADP	in	5	7	influence	case
+or	CCONJ	or	6	7	influence	cc
+influence	NOUN	influence	7	4	presence	conj
+over	ADP	over	8	10	design	case
+technological	ADJ	technological	9	10	design	amod
+design	NOUN	design	10	2	have	obl
+.	PUNCT	.	11	2	have	punct
+</s>
+<s id="43">
+Both	CCONJ	both	1	2	MSS	cc:preconj
+MSS	PROPN	MSS	2	7	composed	nsubj:pass
+and	CCONJ	and	3	5	images	cc
+TM	PROPN	tm	4	2	MSS	conj
+images	NOUN	image	5	2	MSS	conj
+are	AUX	be	6	7	composed	aux:pass
+composed	VERB	compose	7	0	root	root
+of	ADP	of	8	10	pixels	case
+individual	ADJ	individual	9	10	pixels	amod
+pixels	NOUN	pixel	10	7	composed	obl
+.	PUNCT	.	11	7	composed	punct
+</s>
+<s id="44">
+I	PRON	I	1	3	give	nsubj
+will	AUX	will	2	3	give	aux
+give	VERB	give	3	0	root	root
+you	PRON	you	4	3	give	iobj
+one	NUM	one	5	6	example	nummod
+example	NOUN	example	6	3	give	obj
+of	ADP	of	7	11	influence	case
+general	ADJ	general	8	9	practitioners	amod
+practitioners	NOUN	practitioner	9	11	influence	nmod:poss
+'	PART	's	10	9	practitioners	case
+influence	NOUN	influence	11	6	example	nmod
+.	PUNCT	.	12	3	give	punct
+</s>
+<s id="45">
+The	DET	the	1	2	consequence	det
+consequence	NOUN	consequence	2	10	government	nsubj
+of	ADP	of	3	5	developments	case
+these	DET	this	4	5	developments	det
+developments	NOUN	development	5	2	consequence	nmod
+was	AUX	be	6	10	government	cop
+to	PART	to	7	10	government	mark
+be	AUX	be	8	10	government	cop
+party	NOUN	party	9	10	government	compound
+government	NOUN	government	10	0	root	root
+.	PUNCT	.	11	10	government	punct
+</s>
+<s id="46">
+Both	DET	both	1	2	contemplate	nsubj
+contemplate	VERB	contemplate	2	0	root	root
+a	DET	a	3	4	balancing	det
+balancing	NOUN	balancing	4	2	contemplate	obj
+of	SCONJ	of	5	6	competing	mark
+competing	VERB	compete	6	4	balancing	acl
+private	ADJ	private	7	10	interests	amod
+and	CCONJ	and	8	9	public	cc
+public	ADJ	public	9	7	private	conj
+interests	NOUN	interest	10	6	competing	obj
+.	PUNCT	.	11	2	contemplate	punct
+</s>
+<s id="47">
+None	PRON	none	1	5	touches	nsubj
+of	ADP	of	2	4	this	case
+all	DET	all	3	4	this	det:predet
+this	PRON	this	4	1	None	nmod
+touches	VERB	touch	5	0	root	root
+the	DET	the	6	8	supremacy	det
+legal	ADJ	legal	7	8	supremacy	amod
+supremacy	NOUN	supremacy	8	5	touches	obj
+of	ADP	of	9	10	Parliament	case
+Parliament	PROPN	Parliament	10	8	supremacy	nmod
+.	PUNCT	.	11	5	touches	punct
+</s>
+<s id="48">
+However	ADV	however	1	6	advisable	advmod
+,	PUNCT	,	2	1	However	punct
+it	PRON	it	3	6	advisable	expl
+is	AUX	be	4	6	advisable	cop
+not	PART	not	5	6	advisable	advmod
+advisable	ADJ	advisable	6	0	root	root
+to	PART	to	7	8	incorporate	mark
+incorporate	VERB	incorporate	8	6	advisable	csubj
+the	DET	the	9	10	section	det
+section	NOUN	section	10	8	incorporate	obj
+itself	PRON	itself	11	8	incorporate	obl:unmarked
+.	PUNCT	.	12	6	advisable	punct
+</s>
+<s id="49">
+Other	ADJ	other	1	2	practices	amod
+practices	NOUN	practice	2	10	disappearing	nsubj
+normal	ADJ	normal	3	2	practices	amod
+in	ADP	in	4	6	past	case
+the	DET	the	5	6	past	det
+past	NOUN	past	6	3	normal	obl
+were	AUX	be	7	10	disappearing	aux
+also	ADV	also	8	10	disappearing	advmod
+now	ADV	now	9	10	disappearing	advmod
+disappearing	VERB	disappear	10	0	root	root
+.	PUNCT	.	11	10	disappearing	punct
+</s>
+<s id="50">
+The	DET	the	1	3	encounter	det
+first	ADJ	first	2	3	encounter	amod
+encounter	NOUN	encounter	3	4	took	nsubj
+took	VERB	take	4	0	root	root
+place	NOUN	place	5	4	took	obj
+there	ADV	there	6	4	took	advmod
+on	ADP	on	7	8	29	case
+29	NUM	29	8	4	took	obl
+January	PROPN	January	9	4	took	obl
+1573	NUM	1573	10	9	January	nummod
+.	PUNCT	.	11	4	took	punct
+</s>
+<s id="51">
+Once	SCONJ	once	1	2	established	mark
+established	VERB	establish	2	4	was	advcl
+there	PRON	there	3	4	was	expl
+was	VERB	be	4	0	root	root
+natural	ADJ	natural	5	6	pressure	amod
+pressure	NOUN	pressure	6	4	was	nsubj
+to	PART	to	7	8	extend	mark
+extend	VERB	extend	8	6	pressure	acl
+the	DET	the	9	10	scheme	det
+scheme	NOUN	scheme	10	8	extend	obj
+.	PUNCT	.	11	4	was	punct
+</s>
+<s id="52">
+But	CCONJ	but	1	6	superior	cc
+the	DET	the	2	4	contemplatives	det
+best	ADJ	good	3	4	contemplatives	amod
+contemplatives	NOUN	contemplative	4	6	superior	nsubj
+are	AUX	be	5	6	superior	cop
+superior	ADJ	superior	6	0	root	root
+to	ADP	to	7	10	actives	case
+the	DET	the	8	10	actives	det
+best	ADJ	good	9	10	actives	amod
+actives	NOUN	active	10	6	superior	obl
+.	PUNCT	.	11	6	superior	punct
+</s>
+<s id="53">
+Additions	NOUN	addition	1	3	repeated	nsubj:pass
+were	AUX	be	2	3	repeated	aux:pass
+repeated	VERB	repeat	3	0	root	root
+until	SCONJ	until	4	10	obtained	mark
+a	DET	a	5	6	pH	det
+pH	NOUN	pH	6	10	obtained	nsubj:pass
+of	ADP	of	7	8	2	case
+2	NUM	2	8	6	pH	nmod
+was	AUX	be	9	10	obtained	aux:pass
+obtained	VERB	obtain	10	3	repeated	advcl
+.	PUNCT	.	11	3	repeated	punct
+</s>
+<s id="54">
+It	PRON	it	1	2	lasted	nsubj
+lasted	VERB	last	2	0	root	root
+over	ADV	over	3	4	five	advmod
+five	NUM	five	4	5	hours	nummod
+hours	NOUN	hour	5	2	lasted	obl:unmarked
+,	PUNCT	,	6	11	present	punct
+and	CCONJ	and	7	11	present	cc
+his	PRON	his	8	9	solicitor	nmod:poss
+solicitor	NOUN	solicitor	9	11	present	nsubj
+was	AUX	be	10	11	present	cop
+present	ADJ	present	11	2	lasted	conj
+.	PUNCT	.	12	2	lasted	punct
+</s>
+<s id="55">
+el	PROPN	el	1	8	add	nsubj
+-	PUNCT	-	2	3	Kefevi	punct
+Kefevi	PROPN	Kefevi	3	1	el	flat
+does	AUX	do	4	8	add	aux
+,	PUNCT	,	5	4	does	punct
+however	ADV	however	6	8	add	advmod
+,	PUNCT	,	7	6	however	punct
+add	VERB	add	8	0	root	root
+a	DET	a	9	11	facts	det
+few	ADJ	few	10	11	facts	amod
+facts	NOUN	fact	11	8	add	obj
+worthy	ADJ	worthy	12	11	facts	amod
+of	ADP	of	13	14	note	case
+note	NOUN	note	14	12	worthy	obl
+.	PUNCT	.	15	8	add	punct
+</s>
+<s id="56">
+Each	DET	each	1	3	credit	det
+module	NOUN	module	2	3	credit	compound
+credit	NOUN	credit	3	4	carries	nsubj
+carries	VERB	carry	4	0	root	root
+an	DET	a	5	7	weighting	det
+assessment	NOUN	assessment	6	7	weighting	compound
+weighting	NOUN	weighting	7	4	carries	obj
+of	ADP	of	8	10	marks	case
+100	NUM	100	9	10	marks	nummod
+marks	NOUN	mark	10	7	weighting	nmod
+.	PUNCT	.	11	4	carries	punct
+</s>
+<s id="57">
+To	ADP	to	1	3	extent	case
+what	DET	what	2	3	extent	det
+extent	NOUN	extent	3	6	help	obl
+can	AUX	can	4	6	help	aux
+GIS	NOUN	GIS	5	6	help	nsubj
+help	VERB	help	6	0	root	root
+if	SCONJ	if	7	10	occurs	mark
+an	DET	a	8	9	event	det
+event	NOUN	event	9	10	occurs	nsubj
+occurs	VERB	occur	10	6	help	advcl
+?	PUNCT	?	11	6	help	punct
+</s>
+<s id="58">
+Four	NUM	four	1	3	approaches	nummod
+different	ADJ	different	2	3	approaches	amod
+approaches	NOUN	approach	3	10	examined	nsubj:pass
+to	ADP	to	4	5	equality	case
+equality	NOUN	equality	5	3	approaches	nmod
+between	ADP	between	6	8	groups	case
+age	NOUN	age	7	8	groups	compound
+groups	NOUN	group	8	5	equality	nmod
+are	AUX	be	9	10	examined	aux:pass
+examined	VERB	examine	10	0	root	root
+.	PUNCT	.	11	10	examined	punct
+</s>
+<s id="59">
+This	PRON	this	1	2	has	nsubj
+has	VERB	have	2	0	root	root
+serious	ADJ	serious	3	4	implications	amod
+implications	NOUN	implication	4	2	has	obj
+for	ADP	for	5	7	prevention	case
+HIV	NOUN	hiv	6	7	prevention	compound
+prevention	NOUN	prevention	7	4	implications	nmod
+amongst	ADP	amongst	8	10	injectors	case
+drug	NOUN	drug	9	10	injectors	compound
+injectors	NOUN	injector	10	7	prevention	nmod
+.	PUNCT	.	11	2	has	punct
+</s>
+<s id="60">
+Is	AUX	be	1	3	possible	cop
+it	PRON	it	2	3	possible	expl
+possible	ADJ	possible	3	0	root	root
+to	PART	to	4	5	move	mark
+move	VERB	move	5	3	possible	csubj
+out	ADP	out	6	8	grief	case
+of	ADP	of	7	8	grief	case
+grief	NOUN	grief	8	5	move	obl
+or	CCONJ	or	9	10	bereavement	cc
+bereavement	NOUN	bereavement	10	8	grief	conj
+?	PUNCT	?	11	3	possible	punct
+</s>
+<s id="61">
+Table	PROPN	Table	1	3	shows	nsubj
+II	NUM	II	2	1	Table	nummod
+shows	VERB	show	3	0	root	root
+the	DET	the	4	6	features	det
+main	ADJ	main	5	6	features	amod
+features	NOUN	feature	6	3	shows	obj
+in	ADP	in	7	10	groups	case
+both	CCONJ	both	8	10	groups	det
+treatment	NOUN	treatment	9	10	groups	compound
+groups	NOUN	group	10	6	features	nmod
+.	PUNCT	.	11	3	shows	punct
+</s>
+<s id="62">
+The	DET	the	1	3	criteria	det
+following	VERB	follow	2	3	criteria	amod
+criteria	NOUN	criterion	3	10	set	nsubj
+for	ADP	for	4	5	selection	case
+selection	NOUN	selection	5	3	criteria	nmod
+of	ADP	of	6	7	content	case
+content	NOUN	content	7	5	selection	nmod
+were	AUX	be	8	10	set	cop
+also	ADV	also	9	10	set	advmod
+set	ADJ	set	10	0	root	root
+:	PUNCT	:	11	10	set	punct
+</s>
+<s id="63">
+Next	ADV	next	1	2	came	advmod
+came	VERB	come	2	0	root	root
+the	DET	the	3	4	engineers	det
+engineers	NOUN	engineer	4	2	came	nsubj
+,	PUNCT	,	5	6	planners	punct
+planners	NOUN	planner	6	4	engineers	conj
+,	PUNCT	,	7	8	statisticians	punct
+statisticians	NOUN	statistician	8	4	engineers	conj
+,	PUNCT	,	9	15	workers	punct
+and	CCONJ	and	10	15	workers	cc
+less	ADV	less	11	12	important	advmod
+important	ADJ	important	12	15	workers	amod
+office	NOUN	office	13	15	workers	compound
+-	PUNCT	-	14	13	office	punct
+workers	NOUN	worker	15	4	engineers	conj
+.	PUNCT	.	16	2	came	punct
+</s>
+<s id="64">
+The	DET	the	1	3	Minister	det
+Prime	ADJ	Prime	2	3	Minister	amod
+Minister	PROPN	Minister	3	6	secretary	nmod:poss
+'s	PART	's	4	3	Minister	case
+personal	ADJ	personal	5	6	secretary	amod
+secretary	NOUN	secretary	6	12	resigned	nsubj
+,	PUNCT	,	7	8	Ian	punct
+Ian	PROPN	Ian	8	6	secretary	appos
+Gow	PROPN	Gow	9	8	Ian	flat
+,	PUNCT	,	10	6	secretary	punct
+also	ADV	also	11	12	resigned	advmod
+resigned	VERB	resign	12	0	root	root
+.	PUNCT	.	13	12	resigned	punct
+</s>
+<s id="65">
+This	PRON	this	1	3	hold	nsubj
+will	AUX	will	2	3	hold	aux
+hold	VERB	hold	3	0	root	root
+good	ADJ	good	4	3	hold	xcomp
+for	ADP	for	5	10	applications	case
+the	DET	the	6	10	applications	det
+more	ADV	more	7	8	regularly	advmod
+regularly	ADV	regularly	8	9	used	advmod
+used	VERB	use	9	10	applications	amod
+applications	NOUN	application	10	3	hold	obl
+.	PUNCT	.	11	3	hold	punct
+</s>
+<s id="66">
+The	DET	the	1	2	meetings	det
+meetings	NOUN	meeting	2	3	encouraged	nsubj
+encouraged	VERB	encourage	3	0	root	root
+exchange	NOUN	exchange	4	3	encouraged	obj
+of	ADP	of	5	6	information	case
+information	NOUN	information	6	4	exchange	nmod
+and	CCONJ	and	7	9	boosted	cc
+perhaps	ADV	perhaps	8	9	boosted	advmod
+boosted	VERB	boost	9	3	encouraged	conj
+morale	NOUN	morale	10	9	boosted	obj
+.	PUNCT	.	11	3	encouraged	punct
+</s>
+<s id="67">
+In	ADP	in	1	3	spectra	case
+Raman	PROPN	Raman	2	3	spectra	compound
+spectra	NOUN	spectra	3	9	weaker	obl
+,	PUNCT	,	4	3	spectra	punct
+these	PRON	this	5	9	weaker	nsubj
+are	AUX	be	6	9	weaker	cop
+usually	ADV	usually	7	9	weaker	advmod
+much	ADV	much	8	9	weaker	advmod
+weaker	ADJ	weak	9	0	root	root
+than	ADP	than	10	11	fundamentals	case
+fundamentals	NOUN	fundamental	11	9	weaker	obl
+.	PUNCT	.	12	9	weaker	punct
+</s>
+<s id="68">
+RE	PROPN	re	1	2	needs	nsubj
+needs	VERB	need	2	0	root	root
+to	PART	to	3	4	introduce	mark
+introduce	VERB	introduce	4	2	needs	xcomp
+pupils	NOUN	pupil	5	4	introduce	obj
+to	ADP	to	6	8	myth	case
+religious	ADJ	religious	7	8	myth	amod
+myth	NOUN	myth	8	4	introduce	obl
+and	CCONJ	and	9	10	story	cc
+story	NOUN	story	10	8	myth	conj
+.	PUNCT	.	11	2	needs	punct
+</s>
+<s id="69">
+It	PRON	it	1	5	related	nsubj
+was	AUX	be	2	5	related	cop
+not	PART	not	3	5	related	advmod
+directly	ADV	directly	4	5	related	advmod
+related	ADJ	related	5	0	root	root
+to	ADP	to	6	9	capacity	case
+households	NOUN	household	7	9	capacity	nmod:poss
+'	PART	's	8	7	households	case
+capacity	NOUN	capacity	9	5	related	obl
+to	PART	to	10	11	pay	mark
+pay	VERB	pay	11	9	capacity	acl
+.	PUNCT	.	12	5	related	punct
+</s>
+<s id="70">
+Yet	CCONJ	yet	1	4	mellowed	cc
+his	PRON	his	2	3	mood	nmod:poss
+mood	NOUN	mood	3	4	mellowed	nsubj
+mellowed	VERB	mellow	4	0	root	root
+a	DET	a	5	6	little	det
+little	ADJ	little	6	4	mellowed	obj
+during	ADP	during	7	10	meetings	case
+the	DET	the	8	10	meetings	det
+actual	ADJ	actual	9	10	meetings	amod
+meetings	NOUN	meeting	10	4	mellowed	obl
+.	PUNCT	.	11	4	mellowed	punct
+</s>
+<s id="71">
+It	PRON	it	1	3	important	expl
+is	AUX	be	2	3	important	cop
+important	ADJ	important	3	0	root	root
+to	PART	to	4	5	avoid	mark
+avoid	VERB	avoid	5	3	important	csubj
+using	VERB	use	6	5	avoid	xcomp
+jargon	NOUN	jargon	7	6	using	obj
+and	CCONJ	and	8	10	language	cc
+complicated	ADJ	complicated	9	10	language	amod
+language	NOUN	language	10	7	jargon	conj
+.	PUNCT	.	11	3	important	punct
+</s>
+<s id="72">
+further	ADV	far	1	8	dependence	advmod
+,	PUNCT	,	2	1	further	punct
+the	DET	the	3	8	dependence	det
+greater	ADJ	great	4	8	dependence	amod
+the	DET	the	5	8	dependence	det
+inter	NOUN	inter	6	8	dependence	compound
+-	PUNCT	-	7	6	inter	punct
+dependence	NOUN	dependence	8	0	root	root
+,	PUNCT	,	9	14	complexity	punct
+then	ADV	then	10	14	complexity	advmod
+the	DET	the	11	14	complexity	det
+greater	ADJ	great	12	14	complexity	amod
+the	DET	the	13	14	complexity	det
+complexity	NOUN	complexity	14	8	dependence	appos
+.	PUNCT	.	15	8	dependence	punct
+</s>
+<s id="73">
+there	PRON	there	1	2	are	expl
+are	VERB	be	2	0	root	root
+always	ADV	always	3	2	are	advmod
+strong	ADJ	strong	4	5	moves	amod
+moves	NOUN	move	5	2	are	nsubj
+to	PART	to	6	7	keep	mark
+keep	VERB	keep	7	5	moves	acl
+studies	NOUN	study	8	7	keep	obj
+under	ADP	under	9	10	wraps	case
+wraps	NOUN	wrap	10	7	keep	obl
+.	PUNCT	.	11	2	are	punct
+</s>
+<s id="74">
+He	PRON	he	1	2	returned	nsubj
+returned	VERB	return	2	0	root	root
+to	ADP	to	3	4	Gaul	case
+Gaul	PROPN	Gaul	4	2	returned	obl
+in	ADP	in	5	6	582/	case
+582/	NUM	582/	6	2	returned	obl
+3	NUM	3	7	6	582/	nummod
+,	PUNCT	,	8	10	received	punct
+but	CCONJ	but	9	10	received	cc
+received	VERB	receive	10	2	returned	conj
+little	ADJ	little	11	12	support	amod
+support	NOUN	support	12	10	received	obj
+.	PUNCT	.	13	2	returned	punct
+</s>
+<s id="75">
+The	DET	the	1	2	experience	det
+experience	NOUN	experience	2	8	affected	nsubj
+of	ADP	of	3	4	war	case
+war	NOUN	war	4	2	experience	nmod
+and	CCONJ	and	5	7	suffering	cc
+its	PRON	its	6	7	suffering	nmod:poss
+suffering	NOUN	suffering	7	4	war	conj
+affected	VERB	affect	8	0	root	root
+Nietzsche	PROPN	Nietzsche	9	8	affected	obj
+deeply	ADV	deeply	10	8	affected	advmod
+.	PUNCT	.	11	8	affected	punct
+</s>
+<s id="76">
+The	DET	the	1	4	text	det
+July	PROPN	July	2	4	text	compound
+1992	NUM	1992	3	2	July	nummod
+text	NOUN	text	4	5	regarded	nsubj
+regarded	VERB	regard	5	0	root	root
+it	PRON	it	6	5	regarded	obj
+as	SCONJ	as	7	8	giving	mark
+giving	VERB	give	8	5	regarded	advcl
+non-mandatory	ADJ	non-mandatory	9	10	guidelines	amod
+guidelines	NOUN	guideline	10	8	giving	obj
+.	PUNCT	.	11	5	regarded	punct
+</s>
+<s id="77">
+The	DET	the	1	2	categories	det
+categories	NOUN	category	2	6	help	nsubj
+of	ADP	of	3	5	presentation	case
+speech	NOUN	speech	4	5	presentation	compound
+presentation	NOUN	presentation	5	2	categories	nmod
+help	VERB	help	6	0	root	root
+to	PART	to	7	8	answer	mark
+answer	VERB	answer	8	6	help	xcomp
+these	DET	this	9	10	questions	det
+questions	NOUN	question	10	8	answer	obj
+.	PUNCT	.	11	6	help	punct
+</s>
+<s id="78">
+Each	DET	each	1	2	manoeuvre	det
+manoeuvre	NOUN	manoeuvre	2	4	repeated	nsubj:pass
+was	AUX	be	3	4	repeated	aux:pass
+repeated	VERB	repeat	4	0	root	root
+after	ADP	after	5	7	gap	case
+a	DET	a	6	7	gap	det
+gap	NOUN	gap	7	4	repeated	obl
+of	ADP	of	8	10	minute	case
+one	NUM	one	9	10	minute	nummod
+minute	NOUN	minute	10	7	gap	nmod
+.	PUNCT	.	11	4	repeated	punct
+</s>
+<s id="79">
+A	DET	a	1	2	copy	det
+copy	NOUN	copy	2	8	supplied	nsubj:pass
+of	ADP	of	3	5	terms	case
+our	PRON	our	4	5	terms	nmod:poss
+terms	NOUN	term	5	2	copy	nmod
+will	AUX	will	6	8	supplied	aux
+be	AUX	be	7	8	supplied	aux:pass
+supplied	VERB	supply	8	0	root	root
+on	ADP	on	9	10	request	case
+request	NOUN	request	10	8	supplied	obl
+.	PUNCT	.	11	8	supplied	punct
+</s>
+<s id="80">
+Once	SCONJ	once	1	5	begun	mark
+the	DET	the	2	3	assessment	det
+assessment	NOUN	assessment	3	5	begun	nsubj
+had	AUX	have	4	5	begun	aux
+begun	VERB	begin	5	9	became	advcl
+Mrs	PROPN	Mrs	6	5	begun	obj
+Jones	PROPN	Jones	7	6	Mrs	flat
+soon	ADV	soon	8	9	became	advmod
+became	VERB	become	9	0	root	root
+disillusioned	VERB	disillusion	10	9	became	xcomp
+.	PUNCT	.	11	9	became	punct
+</s>
+<s id="81">
+We	PRON	we	1	4	know	nsubj
+do	AUX	do	2	4	know	aux
+not	PART	not	3	4	know	advmod
+know	VERB	know	4	0	root	root
+what	DET	what	5	6	authority	det
+authority	NOUN	authority	6	8	responsible	nsubj
+was	AUX	be	7	8	responsible	cop
+responsible	ADJ	responsible	8	4	know	ccomp
+for	ADP	for	9	10	them	case
+them	PRON	they	10	8	responsible	obl
+.	PUNCT	.	11	4	know	punct
+</s>
+<s id="82">
+The	DET	the	1	2	change	det
+change	NOUN	change	2	9	+0.35	nsubj
+in	ADP	in	3	4	SDS	case
+SDS	NOUN	sds	4	2	change	nmod
+during	ADP	during	5	7	up	case
+follow	NOUN	follow	6	7	up	compound
+up	ADP	up	7	4	SDS	nmod
+was	AUX	be	8	9	+0.35	cop
++0.35	NUM	+0.35	9	0	root	root
+(	PUNCT	(	10	11	1.08	punct
+1.08	NUM	1.08	11	9	+0.35	dep
+)	PUNCT	)	12	11	1.08	punct
+.	PUNCT	.	13	9	+0.35	punct
+</s>
+<s id="83">
+He	PRON	he	1	3	struck	nsubj:pass
+was	AUX	be	2	3	struck	aux:pass
+struck	VERB	strike	3	0	root	root
+off	ADP	off	4	7	register	case
+the	DET	the	5	7	register	det
+medical	ADJ	medical	6	7	register	amod
+register	NOUN	register	7	3	struck	obl
+for	ADP	for	8	10	pains	case
+his	PRON	his	9	10	pains	nmod:poss
+pains	NOUN	pain	10	3	struck	obl
+.	PUNCT	.	11	3	struck	punct
+</s>
+<s id="84">
+Events	NOUN	event	1	7	known	nsubj:pass
+among	ADP	among	2	4	Danes	case
+the	DET	the	3	4	Danes	det
+Danes	PROPN	Danes	4	1	Events	nmod
+are	AUX	be	5	7	known	aux:pass
+little	ADV	little	6	7	known	advmod
+known	VERB	know	7	0	root	root
+in	ADP	in	8	10	years	case
+these	DET	this	9	10	years	det
+years	NOUN	year	10	7	known	obl
+.	PUNCT	.	11	7	known	punct
+</s>
+<s id="85">
+Combined	VERB	Combine	1	3	degrees	amod
+subject	NOUN	subject	2	3	degrees	compound
+degrees	NOUN	degree	3	5	easy	nsubj
+are	AUX	be	4	5	easy	cop
+easy	ADJ	easy	5	0	root	root
+to	PART	to	6	7	implement	mark
+implement	VERB	implement	7	5	easy	xcomp
+under	ADP	under	8	10	scheme	case
+this	DET	this	9	10	scheme	det
+scheme	NOUN	scheme	10	7	implement	obl
+.	PUNCT	.	11	5	easy	punct
+</s>
+<s id="86">
+The	DET	the	1	2	accused	det
+accused	NOUN	accuse	2	8	cause	nsubj
+did	AUX	do	3	8	cause	aux
+not	PART	not	4	8	cause	advmod
+(	PUNCT	(	5	6	now	punct
+now	ADV	now	6	8	cause	advmod
+)	PUNCT	)	7	6	now	punct
+cause	VERB	cause	8	0	root	root
+the	DET	the	9	10	victim	det
+victim	NOUN	victim	10	12	death	nmod:poss
+'s	PART	's	11	10	victim	case
+death	NOUN	death	12	8	cause	obj
+.	PUNCT	.	13	8	cause	punct
+</s>
+<s id="87">
+Such	ADJ	such	1	2	questions	amod
+questions	NOUN	question	2	10	unimportant	nsubj
+of	ADP	of	3	4	status	case
+status	NOUN	status	4	2	questions	nmod
+and	CCONJ	and	5	7	dignity	cc
+local	ADJ	local	6	7	dignity	amod
+dignity	NOUN	dignity	7	4	status	conj
+are	AUX	be	8	10	unimportant	cop
+not	PART	not	9	10	unimportant	advmod
+unimportant	ADJ	unimportant	10	0	root	root
+.	PUNCT	.	11	10	unimportant	punct
+</s>
+<s id="88">
+On	ADP	on	1	3	October	case
+26	NUM	26	2	3	October	nummod
+October	PROPN	October	3	8	hit	obl
+1955	NUM	1955	4	3	October	nummod
+the	DET	the	5	7	issue	det
+first	ADJ	first	6	7	issue	amod
+issue	NOUN	issue	7	8	hit	nsubj
+hit	VERB	hit	8	0	root	root
+the	DET	the	9	12	stands	det
+news	NOUN	news	10	12	stands	compound
+-	PUNCT	-	11	10	news	punct
+stands	VERB	stand	12	8	hit	xcomp
+.	PUNCT	.	13	8	hit	punct
+</s>
+<s id="89">
+There	ADV	there	1	5	joined	advmod
+they	PRON	they	2	5	joined	nsubj:pass
+were	AUX	be	3	5	joined	aux:pass
+sometimes	ADV	sometimes	4	5	joined	advmod
+joined	VERB	join	5	0	root	root
+by	ADP	by	6	7	Arp	case
+Arp	PROPN	Arp	7	5	joined	obl:agent
+and	CCONJ	and	8	9	Arthur	cc
+Arthur	PROPN	Arthur	9	7	Arp	conj
+Cravan	PROPN	Cravan	10	9	Arthur	flat
+.	PUNCT	.	11	5	joined	punct
+</s>
+<s id="90">
+First	ADV	first	1	5	important	advmod
+,	PUNCT	,	2	1	First	punct
+it	PRON	it	3	5	important	nsubj
+is	AUX	be	4	5	important	cop
+important	ADJ	important	5	0	root	root
+to	ADP	to	6	13	being	case
+the	DET	the	7	8	student	det
+student	NOUN	student	8	13	being	nmod:poss
+'s	PART	's	9	8	student	case
+intellectual	ADJ	intellectual	10	13	being	amod
+well	ADV	well	11	13	being	amod
+-	PUNCT	-	12	11	well	punct
+being	NOUN	being	13	5	important	obl
+.	PUNCT	.	14	5	important	punct
+</s>
+<s id="91">
+However	ADV	however	1	6	challenged	advmod
+,	PUNCT	,	2	1	However	punct
+it	PRON	it	3	6	challenged	nsubj:pass
+has	AUX	have	4	6	challenged	aux
+been	AUX	be	5	6	challenged	aux:pass
+challenged	VERB	challenge	6	0	root	root
+on	ADP	on	7	9	number	case
+a	DET	a	8	9	number	det
+number	NOUN	number	9	6	challenged	obl
+of	ADP	of	10	11	grounds	case
+grounds	NOUN	grounds	11	9	number	nmod
+.	PUNCT	.	12	6	challenged	punct
+</s>
+<s id="92">
+These	DET	this	1	2	results	det
+results	NOUN	result	2	4	consistent	nsubj
+are	AUX	be	3	4	consistent	cop
+consistent	ADJ	consistent	4	0	root	root
+with	ADP	with	5	6	those	case
+those	PRON	that	6	4	consistent	obl
+of	ADP	of	7	8	Beeson	case
+Beeson	PROPN	Beeson	8	6	those	nmod
+et	X	et	9	10	al	cc
+al	PROPN	al	10	8	Beeson	conj
+.	PUNCT	.	11	4	consistent	punct
+</s>
+<s id="93">
+Knowledge	NOUN	knowledge	1	8	granted	nsubj
+of	ADP	of	2	3	nature	case
+nature	NOUN	nature	3	1	Knowledge	nmod
+was	AUX	be	4	8	granted	cop
+,	PUNCT	,	5	4	was	punct
+however	ADV	however	6	8	granted	advmod
+,	PUNCT	,	7	6	however	punct
+granted	VERB	grant	8	0	root	root
+a	DET	a	9	10	degree	det
+degree	NOUN	degree	10	8	granted	obj
+of	ADP	of	11	12	autonomy	case
+autonomy	NOUN	autonomy	12	10	degree	nmod
+.	PUNCT	.	13	8	granted	punct
+</s>
+<s id="94">
+We	PRON	we	1	3	need	nsubj
+still	ADV	still	2	3	need	advmod
+need	VERB	need	3	0	root	root
+3,000	NUM	3000	4	5	more	nummod
+more	ADJ	more	5	3	need	obj
+to	PART	to	6	7	replace	mark
+replace	VERB	replace	7	3	need	advcl
+our	PRON	our	8	12	bus	nmod:poss
+ageing	ADJ	ageing	9	12	bus	amod
+mini	NOUN	mini	10	12	bus	compound
+-	PUNCT	-	11	10	mini	punct
+bus	NOUN	bus	12	7	replace	obj
+.	PUNCT	.	13	3	need	punct
+</s>
+<s id="95">
+It	PRON	it	1	5	easy	expl
+is	AUX	be	2	5	easy	cop
+not	PART	not	3	5	easy	advmod
+altogether	ADV	altogether	4	5	easy	advmod
+easy	ADJ	easy	5	0	root	root
+to	PART	to	6	7	explain	mark
+explain	VERB	explain	7	5	easy	csubj
+this	DET	this	8	12	development	det
+post	NOUN	post	9	11	classical	compound
+-	PUNCT	-	10	9	post	punct
+classical	ADJ	classical	11	12	development	amod
+development	NOUN	development	12	7	explain	obj
+.	PUNCT	.	13	5	easy	punct
+</s>
+<s id="96">
+There	PRON	there	1	2	exist	expl
+exist	VERB	exist	2	0	root	root
+a	DET	a	3	5	number	det
+considerable	ADJ	considerable	4	5	number	amod
+number	NOUN	number	5	2	exist	nsubj
+of	ADP	of	6	8	techniques	case
+such	ADJ	such	7	8	techniques	amod
+techniques	NOUN	technique	8	5	number	nmod
+or	CCONJ	or	9	10	methods	cc
+methods	NOUN	method	10	8	techniques	conj
+.	PUNCT	.	11	2	exist	punct
+</s>
+<s id="97">
+Subsequent	ADJ	subsequent	1	2	investigation	amod
+investigation	NOUN	investigation	2	3	showed	nsubj
+showed	VERB	show	3	0	root	root
+the	DET	the	4	5	presence	det
+presence	NOUN	presence	5	3	showed	obj
+of	ADP	of	6	10	disease	case
+intestinal	ADJ	intestinal	7	8	Crohn	amod
+Crohn	PROPN	Crohn	8	10	disease	nmod:poss
+'s	PART	's	9	8	Crohn	case
+disease	NOUN	disease	10	5	presence	nmod
+.	PUNCT	.	11	3	showed	punct
+</s>
+<s id="98">
+Nonetheless	ADV	nonetheless	1	5	believed	advmod
+,	PUNCT	,	2	1	Nonetheless	punct
+he	PRON	he	3	5	believed	nsubj
+genuinely	ADV	genuinely	4	5	believed	advmod
+believed	VERB	believe	5	0	root	root
+that	SCONJ	that	6	11	true	mark
+everything	PRON	everything	7	11	true	nsubj
+he	PRON	he	8	9	said	nsubj
+said	VERB	say	9	7	everything	acl:relcl
+was	AUX	be	10	11	true	cop
+true	ADJ	true	11	5	believed	ccomp
+.	PUNCT	.	12	5	believed	punct
+</s>
+<s id="99">
+Only	ADV	only	1	10	brought	advmod
+when	ADV	when	2	6	wound	advmod
+the	DET	the	3	4	shop	det
+shop	NOUN	shop	4	6	wound	nsubj:pass
+was	AUX	be	5	6	wound	aux:pass
+wound	VERB	wind	6	10	brought	advcl
+up	ADP	up	7	6	wound	compound:prt
+were	AUX	be	8	10	brought	aux:pass
+charges	NOUN	charge	9	10	brought	nsubj:pass
+brought	VERB	bring	10	0	root	root
+.	PUNCT	.	11	10	brought	punct
+</s>
+<s id="100">
+The	DET	the	1	2	issue	det
+issue	NOUN	issue	2	6	requires	nsubj
+of	ADP	of	3	5	prospectus	case
+a	DET	a	4	5	prospectus	det
+prospectus	NOUN	prospectus	5	2	issue	nmod
+requires	VERB	require	6	0	root	root
+approval	NOUN	approval	7	6	requires	obj
+of	ADP	of	8	10	Authority	case
+the	DET	the	9	10	Authority	det
+Authority	PROPN	Authority	10	7	approval	nmod
+.	PUNCT	.	11	6	requires	punct
+</s>
